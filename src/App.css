@@ -1,3 +1,16 @@
+.searchbar {
+    width: 320px;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    max-height: 45px;
+    min-height: 45px;
+    margin: 10px;
+    position: relative;
+    box-shadow: 1px 2px 41px -6px rgba(0,0,0,0.60);
+    -webkit-box-shadow: 1px 2px 41px -6px rgba(0,0,0,0.60);
+    -moz-box-shadow: 1px 2px 41px -6px rgba(0,0,0,0.60);
+}
+
 .App {
   text-align: center;
 }
